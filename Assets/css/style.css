@@ -22,6 +22,10 @@ header {
     border: 1px solid grey;
   }
 
-  .col-sm-3 {
+.col-sm-3 {
       text-align: center;
   }
+
+body {
+    background:  url("../dynamic-style.png") ;
+}
